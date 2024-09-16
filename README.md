@@ -6,18 +6,15 @@ Contents
 
 - **Project 1: Data Developer Salary**
 
-    In this project, I created a Data Developer Salary Dashboard to provide insights into salary trends across different categories. The dataset included key information such as the 
-    year, experience level, employment type, job title, salary in local currency, salary in USD, employee residence, remote work ratio, and company location and size. I performed data 
-    transformations to improve the readability of fields like experience level, employment type, and company size, making the dataset clearer and more suitable for visualization.
+    In this project, I created a Data Developer Salary Dashboard to provide insights into salary trends across different categories. I also incorporated slicers based on job title and 
+    company location to allow for more interactive filtering. The dashboard visualizes key aspects such as salary distribution by experience level, company size, employment type, and 
+    year. 
 
-    After preparing the data, I created pivot tables and pivot charts to facilitate dynamic data analysis and visualization. I also incorporated slicers based on job title and company 
-    location to allow for more interactive filtering. The dashboard visualizes key aspects such as salary distribution by experience level, company size, employment type, and year. 
     Starting with experience level, it's clear that executive roles command the highest salaries, followed by senior-level, mid-level, and entry-level positions. This indicates a direct 
-    correlation between experience and compensation, which is expected in most industries but particularly pronounced in data-related roles.
-
-    The analysis by company size shows that larger companies tend to offer higher salaries compared to medium and small-sized firms. This is likely due to the increased resources, 
-    budgets, and demands for data expertise in larger organizations. Interestingly, there is a consistent trend over the years, with average salaries increasing from 2020 to 2023. This 
-    could be indicative of the growing importance of data roles and the rising demand for skilled professionals in this field, driving up compensation.
+    correlation between experience and compensation, which is expected in most industries but particularly pronounced in data-related roles. The analysis by company size shows that 
+    larger companies tend to offer higher salaries compared to medium and small-sized firms. This is likely due to the increased resources, budgets, and demands for data expertise in 
+    larger organizations. Interestingly, there is a consistent trend over the years, with average salaries increasing from 2020 to 2023. This could be indicative of the growing 
+    importance of data roles and the rising demand for skilled professionals in this field, driving up compensation.
 
     When looking at employment type, full-time positions offer significantly higher average salaries than part-time, contract, and freelance positions, which typically come with less 
     job security and fewer benefits. This demonstrates the premium companies are willing to pay for full-time, dedicated employees. Additionally, the dashboard also breaks down salary 
