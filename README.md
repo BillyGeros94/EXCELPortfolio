@@ -6,10 +6,9 @@ Contents
 
 - **Project 1: Data Developer Salary**
 
-    In this project, I created a Data Developer Salary Dashboard to provide insights into salary trends across different categories. The dashboard visualizes key aspects such as salary 
-    distribution by experience level, company size, employment type, and year. The dataset included key information such as the year, experience level, employment type, job title, 
-    salary in local currency, salary in USD, employee residence, remote work ratio, and company location and size. I performed data transformations to improve the readability of fields 
-    like experience level, employment type, and company size, making the dataset clearer and more suitable for visualization.
+    In this project, I created a Data Developer Salary Dashboard to provide insights into salary trends across different categories. The dataset included key information such as the 
+    year, experience level, employment type, job title, salary in local currency, salary in USD, employee residence, remote work ratio, and company location and size. I performed data 
+    transformations to improve the readability of fields like experience level, employment type, and company size, making the dataset clearer and more suitable for visualization.
 
     After preparing the data, I created pivot tables and pivot charts to facilitate dynamic data analysis and visualization. I also incorporated slicers based on job title and company 
     location to allow for more interactive filtering. The dashboard visualizes key aspects such as salary distribution by experience level, company size, employment type, and year. 
