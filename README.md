@@ -6,19 +6,60 @@ Contents
 
 - **Project 1: Data Developer Salary**
 
-    In this Excel project, I analyzed a dataset focused on data developer salaries. The dataset included key information such as the year, experience level, employment type, job title, salary in local currency, salary in USD, employee residence, remote work ratio, and company location and size. I performed data transformations to improve the readability of fields like experience level, employment type, and company size, making the dataset clearer and more suitable for visualization.
+    In this project, I created a Data Developer Salary Dashboard to provide insights into salary trends across different categories. The dashboard visualizes key aspects such as salary 
+    distribution by experience level, company size, employment type, and year. The dataset included key information such as the year, experience level, employment type, job title, 
+    salary in local currency, salary in USD, employee residence, remote work ratio, and company location and size. I performed data transformations to improve the readability of fields 
+    like experience level, employment type, and company size, making the dataset clearer and more suitable for visualization.
 
-    After preparing the data, I created pivot tables and pivot charts to facilitate dynamic data analysis and visualization. I also incorporated slicers based on job title and company location to allow for more interactive filtering. The final dashboard features vertical bar charts that showcase the average salary by experience level, and employment type. Additionally, horizontal bar charts illustrate the average salary by company size, and a line chart tracks salary trends over the years. Vertical bar charts also provide insights into how the average salary has changed year by year for each experience level.
+    After preparing the data, I created pivot tables and pivot charts to facilitate dynamic data analysis and visualization. I also incorporated slicers based on job title and company 
+    location to allow for more interactive filtering. The dashboard visualizes key aspects such as salary distribution by experience level, company size, employment type, and year. 
+    Starting with experience level, it's clear that executive roles command the highest salaries, followed by senior-level, mid-level, and entry-level positions. This indicates a direct 
+    correlation between experience and compensation, which is expected in most industries but particularly pronounced in data-related roles.
+
+    The analysis by company size shows that larger companies tend to offer higher salaries compared to medium and small-sized firms. This is likely due to the increased resources, 
+    budgets, and demands for data expertise in larger organizations. Interestingly, there is a consistent trend over the years, with average salaries increasing from 2020 to 2023. This 
+    could be indicative of the growing importance of data roles and the rising demand for skilled professionals in this field, driving up compensation.
+
+    When looking at employment type, full-time positions offer significantly higher average salaries than part-time, contract, and freelance positions, which typically come with less 
+    job security and fewer benefits. This demonstrates the premium companies are willing to pay for full-time, dedicated employees. Additionally, the dashboard also breaks down salary 
+    averages per year, reflecting an upward trend. This year-on-year increase highlights the overall growth of the data industry and suggests that it is becoming an even more integral 
+    part of business operations, with companies willing to invest more in their data teams.
+
+    Finally, the bottom section of the dashboard shows the yearly average salary per experience level, reinforcing the earlier finding that experience plays a critical role in 
+    determining salary. Across all experience levels, there is an upward trend in compensation, particularly for senior and executive roles, which saw the most significant growth. This 
+    suggests that as the demand for leadership in data development increases, so too does the willingness of companies to offer competitive salaries to attract top talent.
 
 - **Project 2: Employee Performance Dashboard**
 
-    This project contains three sheets: Employee Data, Monthly Sales Data, and Attendance Data. The dataset includes employee details such as name, role, and department, as well as monthly sales information like month, sales amount, and sales target. The attendance data includes fields for month, days worked, and total working days.
+    This project contains three sheets: Employee Data, Monthly Sales Data, and Attendance Data. The dataset includes employee details such as name, role, and department, as well as 
+    monthly sales information like month, sales amount, and sales target. The attendance data includes fields for month, days worked, and total working days.
 
-    In this project, I utilized the VLOOKUP function to extract employee names, roles, and departments from the Employee Data sheet to the Monthly Sales Data sheet. I then used functions such as SUMIF, AVERAGEIF, and COUNTIF to calculate total sales per employee, average sales per role, and the number of employees per department. I also computed the sales target achievement and formatted it as a percentage. To enhance data interpretation, I applied conditional formatting to highlight employees who did not meet their expected sales targets based on sales amount and target achievement.
+    In this project, I utilized the VLOOKUP function to extract employee names, roles, and departments from the Employee Data sheet to the Monthly Sales Data sheet. I then used 
+    functions such as SUMIF, AVERAGEIF, and COUNTIF to calculate total sales per employee, average sales per role, and the number of employees per department. I also computed the sales 
+    target achievement and formatted it as a percentage. To enhance data interpretation, I applied conditional formatting to highlight employees who did not meet their expected sales 
+    targets based on sales amount and target achievement.
 
-    Additionally, I used VLOOKUP to extract employee names into the Attendance Data sheet. I applied SUMIF to calculate total sales per employee and used appropriate formulas to calculate daily sales for each employee. Conditional formatting was also used to provide insights into the number of days worked compared to total available days, and to compare employees based on their daily sales performance.
+    Additionally, I used VLOOKUP to extract employee names into the Attendance Data sheet. I applied SUMIF to calculate total sales per employee and used appropriate formulas to 
+    calculate daily sales for each employee. Conditional formatting was also used to provide insights into the number of days worked compared to total available days, and to compare 
+    employees based on their daily sales performance.
 
-    Finally, I created a dashboard to visualize employee performance. It features a pie chart showcasing the distribution of employees by department, a horizontal bar chart displaying daily sales for each employee with an accompanying legend, a vertical bar chart illustrating average sales by role, and a line chart visualizing total sales for each employee.
+    Finally, I created a dashboard to visualize employee performance. I focused on visualizing the performance of employees in terms of sales and marketing metrics. The breakdown of 
+    employees by department shows that the majority of the workforce, 75%, is in sales, while marketing accounts for the remaining 25%. This suggests that sales is the driving force of 
+    the company’s revenue, with a much larger proportion of staff dedicated to direct customer interaction and closing deals compared to the marketing team, which likely plays more of a 
+    supportive role in generating leads.
+
+    In terms of daily sales performance, the data highlights the top performers. John Smith has the highest daily sales total at $4,772.73, followed by Michael Brown with $3,904.76, 
+    then Emily Davis at $3,250.00, and Sara Johnson trailing with $2,736.84. The difference in daily sales indicates that John Smith significantly outperforms his peers.
+
+    When analyzing the average sales per role, sales managers have the highest average at $52,500.00, which makes sense given their leadership and responsibility for overseeing larger 
+    accounts and teams. Marketing executives also perform well with an average of $41,000.00, suggesting that while marketing staff are fewer in number, they play a crucial role in 
+    driving higher-value deals. Sales executives and sales representatives have relatively lower averages at $29,250.00, but this could be expected given their focus on individual 
+    clients and smaller deals.
+
+    The total sales per employee graph emphasizes individual performance over time. John Smith leads significantly with total sales of $105,000.00, while Michael Brown follows with 
+    $82,000.00. Emily Davis contributes $65,000.00 in total sales, and Sara Johnson, despite lower daily sales, totals $52,000.00. This suggests that while some employees consistently 
+    perform better daily, the overall contribution to the company's revenue varies, potentially due to factors like deal size, client relationships, or time in role. The data implies 
+    opportunities for improving lower performers’ strategies or giving them the support needed to match their higher-performing colleagues.
   
 - **Project 3: IMDb Dataset**
   
