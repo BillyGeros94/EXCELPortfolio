@@ -27,35 +27,27 @@ Contents
 
 - **Project 2: Employee Performance Dashboard**
 
-    This project contains three sheets: Employee Data, Monthly Sales Data, and Attendance Data. The dataset includes employee details such as name, role, and department, as well as 
-    monthly sales information like month, sales amount, and sales target. The attendance data includes fields for month, days worked, and total working days.
+   This project provides a detailed analysis of employee performance by combining data from monthly sales, attendance, and a performance dashboard. The focus is on evaluating how 
+   employees across different roles and departments perform relative to sales targets, attendance, and their total contributions to overall sales.
 
-    In this project, I utilized the VLOOKUP function to extract employee names, roles, and departments from the Employee Data sheet to the Monthly Sales Data sheet. I then used 
-    functions such as SUMIF, AVERAGEIF, and COUNTIF to calculate total sales per employee, average sales per role, and the number of employees per department. I also computed the sales 
-    target achievement and formatted it as a percentage. To enhance data interpretation, I applied conditional formatting to highlight employees who did not meet their expected sales 
-    targets based on sales amount and target achievement.
+   In terms of sales achievements, John Smith, the Sales Manager, leads with a total of $105,000, consistently exceeding his monthly targets with achievements of 111% in January and 
+   115% in February. Michael Brown, the Marketing Executive, also shows strong performance, with $82,000 in total sales, surpassing his targets both months with 103% and 105%. In 
+   contrast, the two Sales Executives, Emily Davis and Sara Johnson, performed below expectations. Emily achieved 86% of her target in January but improved to 95% in February. Sara 
+   Johnson's sales were consistently below target, achieving 89% in January and 90% in February. Their performance is reflected in the total sales per employee, with Emily contributing 
+   $65,000 and Sara $52,000.
 
-    Additionally, I used VLOOKUP to extract employee names into the Attendance Data sheet. I applied SUMIF to calculate total sales per employee and used appropriate formulas to 
-    calculate daily sales for each employee. Conditional formatting was also used to provide insights into the number of days worked compared to total available days, and to compare 
-    employees based on their daily sales performance.
+   Attendance data plays a key role in explaining these outcomes. John Smith worked all his available days in January and February, correlating with his exceptional sales performance. 
+   Michael Brown also had good attendance, working 21 days in January and 22 in February. In contrast, Sara Johnson had the lowest attendance, with 19 days worked in January, which may 
+   have contributed to her lower sales performance. The daily sales per employee also show John Smith as the highest performer, generating $4,772.73 daily, while Sara lags behind at 
+   $2,736.84 per day.
 
-    Finally, I created a dashboard to visualize employee performance. I focused on visualizing the performance of employees in terms of sales and marketing metrics. The breakdown of 
-    employees by department shows that the majority of the workforce, 75%, is in sales, while marketing accounts for the remaining 25%. This suggests that sales is the driving force of 
-    the company’s revenue, with a much larger proportion of staff dedicated to direct customer interaction and closing deals compared to the marketing team, which likely plays more of a 
-    supportive role in generating leads.
+   The visual dashboard reinforces these findings, showing that the Sales department, which makes up 75% of the workforce, is the primary driver of revenue. Average sales per role 
+   indicate that Sales Managers generate the highest average, $52,500, followed by Marketing Executives at $41,000, and Sales Executives at $29,250. The total sales per employee chart 
+   further emphasizes John Smith’s outperformance compared to others.
 
-    In terms of daily sales performance, the data highlights the top performers. John Smith has the highest daily sales total at $4,772.73, followed by Michael Brown with $3,904.76, 
-    then Emily Davis at $3,250.00, and Sara Johnson trailing with $2,736.84. The difference in daily sales indicates that John Smith significantly outperforms his peers.
-
-    When analyzing the average sales per role, sales managers have the highest average at $52,500.00, which makes sense given their leadership and responsibility for overseeing larger 
-    accounts and teams. Marketing executives also perform well with an average of $41,000.00, suggesting that while marketing staff are fewer in number, they play a crucial role in 
-    driving higher-value deals. Sales executives and sales representatives have relatively lower averages at $29,250.00, but this could be expected given their focus on individual 
-    clients and smaller deals.
-
-    The total sales per employee graph emphasizes individual performance over time. John Smith leads significantly with total sales of $105,000.00, while Michael Brown follows with 
-    $82,000.00. Emily Davis contributes $65,000.00 in total sales, and Sara Johnson, despite lower daily sales, totals $52,000.00. This suggests that while some employees consistently 
-    perform better daily, the overall contribution to the company's revenue varies, potentially due to factors like deal size, client relationships, or time in role. The data implies 
-    opportunities for improving lower performers’ strategies or giving them the support needed to match their higher-performing colleagues.
+   This project demonstrates how various factors such as attendance, role, and department contribute to individual and team performance. While the Sales department as a whole shows 
+   strong results, there are clear areas where performance, particularly among Sales Executives, could be improved with targeted support. The Marketing Executive, despite being the sole 
+   representative of the department, displays consistent achievement and adds significant value to the overall team performance.
   
 - **Project 3: IMDb Dataset**
   
