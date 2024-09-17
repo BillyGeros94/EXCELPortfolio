@@ -10,10 +10,10 @@ Contents
     company location to allow for more interactive filtering. The dashboard visualizes key aspects such as salary distribution by experience level, company size, employment type, and 
     year. 
 
-    Starting with experience level, it's clear that executive roles command the highest salaries, followed by senior-level, mid-level, and entry-level positions. This indicates a direct 
-    correlation between experience and compensation, which is expected in most industries but particularly pronounced in data-related roles. The analysis by company size shows that 
-    larger companies tend to offer higher salaries compared to medium and small-sized firms. This is likely due to the increased resources, budgets, and demands for data expertise in 
-    larger organizations. Interestingly, there is a consistent trend over the years, with average salaries increasing from 2020 to 2023. This could be indicative of the growing 
+    Starting with experience level, it's clear that executive roles command the highest salaries, followed by senior-level, mid-level, and entry-level positions. This indicates a 
+    direct correlation between experience and compensation, which is expected in most industries but particularly pronounced in data-related roles. The analysis by company size shows 
+    that larger companies tend to offer higher salaries compared to medium and small-sized firms. This is likely due to the increased resources, budgets, and demands for data expertise 
+    in larger organizations. Interestingly, there is a consistent trend over the years, with average salaries increasing from 2020 to 2023. This could be indicative of the growing 
     importance of data roles and the rising demand for skilled professionals in this field, driving up compensation.
 
     When looking at employment type, full-time positions offer significantly higher average salaries than part-time, contract, and freelance positions, which typically come with less 
@@ -46,8 +46,8 @@ Contents
    further emphasizes John Smith’s outperformance compared to others.
 
    This project demonstrates how various factors such as attendance, role, and department contribute to individual and team performance. While the Sales department as a whole shows 
-   strong results, there are clear areas where performance, particularly among Sales Executives, could be improved with targeted support. The Marketing Executive, despite being the sole 
-   representative of the department, displays consistent achievement and adds significant value to the overall team performance.
+   strong results, there are clear areas where performance, particularly among Sales Executives, could be improved with targeted support. The Marketing Executive, despite being the 
+   sole representative of the department, displays consistent achievement and adds significant value to the overall team performance.
   
 - **Project 3: IMDb Dataset**
   
@@ -69,9 +69,35 @@ Contents
 
 - **Project 4: Sports Teams Valuations**
 
-    This dataset was personally scraped using a Python script I developed to gather data on sports teams and their valuations from various Wikipedia pages. The dataset includes key information such as the team name, country, territory, value, revenue, operating income, sport, and league.
+    I created this Sports Teams Valuations Dashboard using data I scraped from various sources. The primary goal of this dashboard is to provide a comprehensive view of the 
+    financial aspects of different sports leagues and teams, comparing key metrics like team valuations, revenues, and operating income across different countries and sports.
 
-    I used pivot tables to manipulate and explore the data, allowing for detailed insights, and created pivot charts for visualization and analysis. The final product was a Sports Teams Valuations Dashboard, featuring line charts that showcase the average team valuation by country and the average operating income by sport. Additionally, the dashboard includes a vertical bar chart illustrating the average team valuation per sport and a horizontal bar chart providing insights into the average revenue by sport. To enhance interactivity, I added slicers for league, country, and territory, allowing for improved filtering and deeper insights into the data.
+    At the top of the dashboard, I've highlighted the Average Team Valuation per Country. This shows how team valuations vary geographically, with countries like the United States and 
+    Spain showing higher average valuations compared to countries like Germany and Italy. The United States, in particular, leads the chart, likely due to the dominance of major 
+    American sports like football and basketball.
+
+    Next to this, I included the Average Team Valuation per Sport, where American football stands out with significantly higher team valuations compared to other sports like 
+    association football (soccer), basketball, and ice hockey. This reflects the financial power of leagues like the NFL, where teams are often valued in the billions.
+
+    To give context to these valuations, I also added a Revenue per Sport bar chart. This shows how American football again leads, generating the highest revenue, which aligns with its 
+    high team valuations. Interestingly, basketball and association football generate substantial revenues as well, although their valuations differ depending on the specific teams and 
+    leagues. The data provides an interesting comparison, as some sports with lower revenues still maintain relatively high valuations, indicating other financial factors are at play, 
+    such as branding and media rights.
+
+    I also wanted to look at profitability, so I included a chart for Average Operating Income per Sport. While American football teams generate high revenues and valuations, it’s 
+    their operating income that really sets them apart, with substantial profits compared to other sports. Baseball and basketball also show strong profitability, but association 
+    football and ice hockey lag behind in this regard, possibly due to higher operating costs or lower margins.
+
+    At the bottom of the dashboard, I added a detailed chart breaking down Team Valuation by specific teams across different leagues and territories. This allows for more granular 
+    analysis, enabling a comparison of individual teams within their respective markets. It also reflects how even within the same sport, there can be significant valuation 
+    differences, with some markets and teams having much greater financial influence.
+
+    The filters on the left side of the dashboard allow users to interact with the data, providing the ability to view specific leagues, countries, and territories. This interactivity 
+    is crucial because it allows for a focused analysis based on the user’s interest. For example, someone could filter the data to see how Premier League teams compare to NFL teams or 
+    how teams in Italy differ from those in the United States.
+
+    Overall, this dashboard provides a clear and concise overview of the financial landscape of major sports teams across the globe. It highlights the stark differences in valuation, 
+    revenue, and profitability between different sports, countries, and individual teams, offering a valuable tool for anyone interested in the business side of sports.
 
 - **Project 5: Top 100 Companies Analysis**
   
@@ -83,12 +109,12 @@ Contents
 
     Next, I analyzed the data by industry, summarizing total revenue, total employees, the number of companies, and average revenue growth for each industry. This part of the analysis 
     revealed that the retail and petroleum industries are the largest in terms of revenue. The retail sector not only generates significant revenue but also employs the most people. On 
-    the other hand, the infotech sector stands out with its extraordinary growth rate, suggesting rapid expansion and innovation in this area. By looking at the overall industry data, I 
-    could see how different sectors compare in terms of revenue and workforce size, with some like automotive and energy showing high growth but lower overall revenue.
+    the other hand, the infotech sector stands out with its extraordinary growth rate, suggesting rapid expansion and innovation in this area. By looking at the overall industry data, 
+    I could see how different sectors compare in terms of revenue and workforce size, with some like automotive and energy showing high growth but lower overall revenue.
 
     Finally, I used VLOOKUP to extract detailed information about specific companies, such as Apple, Tesla, and JPMorgan Chase. By examining these companies individually, I observed a 
-    range of revenue figures and growth rates that reflect their respective industries’ performance. For example, Tesla’s high revenue growth contrasts with Apple’s more moderate growth 
-    despite its high revenue. Intel’s performance in the technology sector and AIG’s results in insurance further highlight the varied dynamics across different industries.
+    range of revenue figures and growth rates that reflect their respective industries’ performance. For example, Tesla’s high revenue growth contrasts with Apple’s more moderate 
+    growth despite its high revenue. Intel’s performance in the technology sector and AIG’s results in insurance further highlight the varied dynamics across different industries.
 
     Overall, this project has given me a well-rounded view of how top companies and industries perform. By combining detailed company data with broader industry trends, I can see the 
     key factors driving success and growth in different sectors. This analysis not only helps me understand the financial landscape but also provides insights into how specific 
