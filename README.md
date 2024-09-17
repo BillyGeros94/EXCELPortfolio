@@ -17,9 +17,7 @@ Contents
     importance of data roles and the rising demand for skilled professionals in this field, driving up compensation.
 
     When looking at employment type, full-time positions offer significantly higher average salaries than part-time, contract, and freelance positions, which typically come with less 
-    job security and fewer benefits. This demonstrates the premium companies are willing to pay for full-time, dedicated employees. Additionally, the dashboard also breaks down salary 
-    averages per year, reflecting an upward trend. This year-on-year increase highlights the overall growth of the data industry and suggests that it is becoming an even more integral 
-    part of business operations, with companies willing to invest more in their data teams.
+    job security and fewer benefits. This demonstrates the premium companies are willing to pay for full-time, dedicated employees. 
 
     Finally, the bottom section of the dashboard shows the yearly average salary per experience level, reinforcing the earlier finding that experience plays a critical role in 
     determining salary. Across all experience levels, there is an upward trend in compensation, particularly for senior and executive roles, which saw the most significant growth. This 
@@ -36,10 +34,9 @@ Contents
    Johnson's sales were consistently below target, achieving 89% in January and 90% in February. Their performance is reflected in the total sales per employee, with Emily contributing 
    $65,000 and Sara $52,000.
 
-   Attendance data plays a key role in explaining these outcomes. John Smith worked all his available days in January and February, correlating with his exceptional sales performance. 
-   Michael Brown also had good attendance, working 21 days in January and 22 in February. In contrast, Sara Johnson had the lowest attendance, with 19 days worked in January, which may 
-   have contributed to her lower sales performance. The daily sales per employee also show John Smith as the highest performer, generating $4,772.73 daily, while Sara lags behind at 
-   $2,736.84 per day.
+   Attendance data plays a key role in explaining these outcomes. John Smith worked all his available days in January, correlating with his exceptional sales performance. Michael Brown 
+   also had good attendance, working 21 days in January. In contrast, Sara Johnson had the lowest attendance, with 19 days worked in January, which may have contributed to her lower 
+   sales performance. The daily sales per employee also show John Smith as the highest performer, generating $4,772.73 daily, while Sara lags behind at $2,736.84 per day.
 
    The visual dashboard reinforces these findings, showing that the Sales department, which makes up 75% of the workforce, is the primary driver of revenue. Average sales per role 
    indicate that Sales Managers generate the highest average, $52,500, followed by Marketing Executives at $41,000, and Sales Executives at $29,250. The total sales per employee chart 
@@ -72,9 +69,8 @@ Contents
     I created this Sports Teams Valuations Dashboard using data I scraped from various sources. The primary goal of this dashboard is to provide a comprehensive view of the 
     financial aspects of different sports leagues and teams, comparing key metrics like team valuations, revenues, and operating income across different countries and sports.
 
-    At the top of the dashboard, I've highlighted the Average Team Valuation per Country. This shows how team valuations vary geographically, with countries like the United States and 
-    Spain showing higher average valuations compared to countries like Germany and Italy. The United States, in particular, leads the chart, likely due to the dominance of major 
-    American sports like football and basketball.
+    At the top of the dashboard, I've highlighted the Average Team Valuation per Country. This shows how team valuations vary geographically, with countries like France and Spain 
+    showing higher average valuations compared to countries like United States and Italy. Spain, in particular, leads the chart, likely due to less but more valuable list entries
 
     Next to this, I included the Average Team Valuation per Sport, where American football stands out with significantly higher team valuations compared to other sports like 
     association football (soccer), basketball, and ice hockey. This reflects the financial power of leagues like the NFL, where teams are often valued in the billions.
@@ -85,16 +81,15 @@ Contents
     such as branding and media rights.
 
     I also wanted to look at profitability, so I included a chart for Average Operating Income per Sport. While American football teams generate high revenues and valuations, it’s 
-    their operating income that really sets them apart, with substantial profits compared to other sports. Baseball and basketball also show strong profitability, but association 
-    football and ice hockey lag behind in this regard, possibly due to higher operating costs or lower margins.
+    their operating income that really sets them apart, with substantial profits compared to other sports. Basketball and ice hockey also show strong profitability, but association 
+    football and baseball lag behind in this regard, possibly due to higher operating costs or lower margins.
 
     At the bottom of the dashboard, I added a detailed chart breaking down Team Valuation by specific teams across different leagues and territories. This allows for more granular 
     analysis, enabling a comparison of individual teams within their respective markets. It also reflects how even within the same sport, there can be significant valuation 
     differences, with some markets and teams having much greater financial influence.
 
     The filters on the left side of the dashboard allow users to interact with the data, providing the ability to view specific leagues, countries, and territories. This interactivity 
-    is crucial because it allows for a focused analysis based on the user’s interest. For example, someone could filter the data to see how Premier League teams compare to NFL teams or 
-    how teams in Italy differ from those in the United States.
+    is crucial because it allows for a focused analysis based on the user’s interest. 
 
     Overall, this dashboard provides a clear and concise overview of the financial landscape of major sports teams across the globe. It highlights the stark differences in valuation, 
     revenue, and profitability between different sports, countries, and individual teams, offering a valuable tool for anyone interested in the business side of sports.
