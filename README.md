@@ -102,14 +102,16 @@ Contents
     strength in both retail and cloud computing. Notably, ExxonMobil and Chevron in the petroleum industry exhibit impressive revenue and growth rates, underscoring the sector's 
     financial clout.
 
-    Next, I analyzed the data by industry, summarizing total revenue, total employees, the number of companies, and average revenue growth for each industry. This part of the analysis 
-    revealed that the retail and petroleum industries are the largest in terms of revenue. The retail sector not only generates significant revenue but also employs the most people. On 
-    the other hand, the infotech sector stands out with its extraordinary growth rate, suggesting rapid expansion and innovation in this area. By looking at the overall industry data, 
-    I could see how different sectors compare in terms of revenue and workforce size, with some like automotive and energy showing high growth but lower overall revenue.
+    Next, I analyzed the data by industry, summarizing total revenue, total employees, the number of companies, and average revenue growth for each industry. The use of conditional 
+    formatting visually highlights differences across industries. This part of the analysis revealed that the retail and petroleum industries are the largest in terms of revenue. The 
+    retail sector not only generates significant revenue but also employs the most people. On the other hand, the infotech sector stands out with its extraordinary growth rate, 
+    suggesting rapid expansion and innovation in this area. By looking at the overall industry data, I could see how different sectors compare in terms of revenue and workforce size, 
+    with some like automotive and energy showing high growth but lower overall revenue.
 
-    Finally, I used VLOOKUP to extract detailed information about specific companies, such as Apple, Tesla, and JPMorgan Chase. By examining these companies individually, I observed a 
-    range of revenue figures and growth rates that reflect their respective industries’ performance. For example, Tesla’s high revenue growth contrasts with Apple’s more moderate 
-    growth despite its high revenue. Intel’s performance in the technology sector and AIG’s results in insurance further highlight the varied dynamics across different industries.
+    Finally, I focus on showcasing specific company data using a lookup function. It extracts and displays information about selected companies in a visually distinct manner. Each 
+    block of information includes the company name, industry, revenue, revenue growth, number of employees, and headquarters location, using different colored boxes to differentiate 
+    between companies. For instance, Apple, Tesla, and JPMorgan Chase are among the companies featured here. The purpose of this sheet seems to be to highlight certain companies for 
+    quick reference or presentation
 
     Overall, this project has given me a well-rounded view of how top companies and industries perform. By combining detailed company data with broader industry trends, I can see the 
     key factors driving success and growth in different sectors. This analysis not only helps me understand the financial landscape but also provides insights into how specific 
