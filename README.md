@@ -23,7 +23,7 @@ Contents
     determining salary. Across all experience levels, there is an upward trend in compensation, particularly for senior and executive roles, which saw the most significant growth. This 
     suggests that as the demand for leadership in data development increases, so too does the willingness of companies to offer competitive salaries to attract top talent.
 
-- **Project 2: Employee Performance Dashboard**
+- **Project 2: Employee Performance**
 
    This project provides a detailed analysis of employee performance by combining data from monthly sales, attendance, and a performance dashboard. The focus is on evaluating how 
    employees across different roles and departments perform relative to sales targets, attendance, and their total contributions to overall sales.
