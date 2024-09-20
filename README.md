@@ -94,7 +94,7 @@ Contents
     Overall, this dashboard provides a clear and concise overview of the financial landscape of major sports teams across the globe. It highlights the stark differences in valuation, 
     revenue, and profitability between different sports, countries, and individual teams, offering a valuable tool for anyone interested in the business side of sports.
 
-- **Project 5: Top 100 Companies Analysis**
+- **Project 5: Top 100 Companies**
   
     In this project, I’ve compiled and analyzed data from various companies and industries to understand their financial performance and growth dynamics better. I started with a 
     comprehensive list of top companies, noting their revenue, revenue growth, employee count, and headquarters. For instance, Walmart tops the list with the highest revenue and the 
