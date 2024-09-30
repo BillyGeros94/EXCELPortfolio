@@ -4,7 +4,7 @@ Welcome to my Excel Portfolio! This repository showcases a range of projects tha
 
 Contents
 
-- **Project 1: Data Developer Salary**
+- **Project 1: Data Developer**
 
     In this project, I created a Data Developer Salary Dashboard to provide insights into salary trends across different categories. I also incorporated slicers based on job title and 
     company location to allow for more interactive filtering. The dashboard visualizes key aspects such as salary distribution by experience level, company size, employment type, and 
@@ -46,7 +46,7 @@ Contents
    strong results, there are clear areas where performance, particularly among Sales Executives, could be improved with targeted support. The Marketing Executive, despite being the 
    sole representative of the department, displays consistent achievement and adds significant value to the overall team performance.
   
-- **Project 3: IMDb Dataset**
+- **Project 3: IMDb**
   
     I began my project by working with the raw data from the "messy_IMDB_dataset" sheet. This initial dataset was disorganized and required significant cleaning to make it usable. I 
     started by consolidating all the data into a single column. This was necessary because the information was scattered and needed to be aligned properly.
@@ -64,7 +64,7 @@ Contents
     The result of this meticulous process is the "clean_IMDB_dataset" sheet. The clean dataset is now well-structured and organized, making it much easier to work with and analyze. By 
     transforming the raw data into a more polished format, I ensured that it is both accurate and accessible for any subsequent analysis or use.
 
-- **Project 4: Sports Teams Valuations**
+- **Project 4: Sports Teams**
 
     I created this Sports Teams Valuations Dashboard using data I scraped from various sources. The primary goal of this dashboard is to provide a comprehensive view of the 
     financial aspects of different sports leagues and teams, comparing key metrics like team valuations, revenues, and operating income across different countries and sports.
