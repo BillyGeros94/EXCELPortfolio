@@ -117,7 +117,35 @@ Contents
     key factors driving success and growth in different sectors. This analysis not only helps me understand the financial landscape but also provides insights into how specific 
     companies compare within their industries.
 
-- **Project 6:** Under construction, coming shortly!
+- **Project 6: London**
+
+    In this Excel project, I conducted an analysis of London housing data, focusing on extracting key insights into property prices, sizes, and other relevant features. The dataset 
+    covers a wide variety of property types—such as bungalows, duplexes, flats, penthouses, and studios—alongside metrics like price, area in square feet, and the number of bedrooms and 
+    bathrooms. To begin, I used descriptive statistics to summarize the key features of the dataset, calculating averages, medians, standard deviations, and minimum and maximum values 
+    for important metrics like price, area, and the number of rooms.
+
+    For instance, the average property price across the dataset is approximately £1.86 million, though the range is extremely wide, from £180,000 up to £39.75 million, suggesting a 
+    significant disparity between lower-end and ultra-high-end properties. The average property has 3.1 bedrooms and a floor area of around 1,712 square feet, though again the spread is 
+    large, with properties ranging from just 274 square feet to over 15,000. These statistics indicate substantial variation in the London property market, where both modest homes and 
+    sprawling luxury properties coexist.
+
+    Breaking down the average prices by property type offers additional insight. Bungalows average £904,000, flats or apartments are priced at around £1.25 million, while penthouses 
+    stand out with an average price exceeding £3.1 million, making them one of the most expensive property types. In contrast, studios are the most affordable option, averaging 
+    £357,500. This analysis reveals how both the size and type of a property significantly influence its value in London’s competitive housing market.
+
+    I also performed an exploratory data analysis using visualizations to better understand the data distribution. The price distribution chart shows a strong right skew, with the 
+    majority of properties priced on the lower end and a few outliers with extremely high prices. A scatter plot of price versus area highlights the positive correlation between 
+    property size and price, confirming that larger properties tend to be more expensive, though there are some small but highly priced properties, likely due to their location in 
+    prestigious areas.
+
+    Further analysis into the relationship between the number of bedrooms and price revealed a similar trend: properties with more bedrooms are generally more expensive, but there are 
+    exceptions, where fewer-bedroom homes command high prices due to location or luxury factors. Location data provided additional depth to the analysis, as I could see the distribution 
+    of prices across different areas of London. For example, properties in neighborhoods like Mayfair, Belgravia, and Chelsea showed significantly higher price tags, often reaching tens 
+    of millions of pounds, highlighting how location is a crucial factor in property valuation.
+
+    In summary, this analysis offers a comprehensive view of the London housing market, characterized by vast diversity in property types, sizes, and prices. The descriptive statistics 
+    and visualizations helped uncover key patterns, such as the influence of property type, size, and location on price. These insights reveal the complexity of London’s real estate 
+    market, where factors like luxury, location, and property size drive significant variation in prices across different neighborhoods.
 
 ## Each project contains the following:
 
