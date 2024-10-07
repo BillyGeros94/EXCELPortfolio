@@ -40,7 +40,7 @@ Contents
     The "Transactions by Product Category" chart illustrates that coffee dominates with over 50,000 transactions, followed by tea with around 45,000. Packaged goods and branded items 
     are the least purchased, reflecting their niche nature compared to more popular offerings like beverages and snacks.
 
-    The "Top 15 Products by Transaction Revenue" table identifies brewed chai tea as the top revenue generator at £77,082 from 17,183 transactions. Other top earners include gourmet 
+    The "Top 15 Products by Transaction Revenue" table identifies brewed chai tea as the top revenue generator at $77,082 from 17,183 transactions. Other top earners include gourmet 
     brewed coffee and barista espresso, showing that both standard and specialty coffee drinks perform well. Premium products, such as organic brewed coffee and herbal teas, also 
     feature in the top revenue list, reflecting customer interest in higher-quality or unique offerings.
 
