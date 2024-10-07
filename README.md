@@ -23,28 +23,29 @@ Contents
     determining salary. Across all experience levels, there is an upward trend in compensation, particularly for senior and executive roles, which saw the most significant growth. This 
     suggests that as the demand for leadership in data development increases, so too does the willingness of companies to offer competitive salaries to attract top talent.
 
-- **Project 2: Employee Performance** (to be updated)
+- **Project 2: Coffee Shop**
 
-   This project provides a detailed analysis of employee performance by combining data from monthly sales, attendance, and a performance dashboard. The focus is on evaluating how 
-   employees across different roles and departments perform relative to sales targets, attendance, and their total contributions to overall sales.
+    This Excel dashboard provides a detailed analysis of sales data for a coffee business, with insights into revenue trends, customer behavior, and product performance. It includes a 
+    location filter for Astoria, Hell’s Kitchen, and Lower Manhattan, enabling a comparison of sales across different areas.
 
-   In terms of sales achievements, John Smith, the Sales Manager, leads with a total of $105,000, consistently exceeding his monthly targets with achievements of 111% in January and 
-   115% in February. Michael Brown, the Marketing Executive, also shows strong performance, with $82,000 in total sales, surpassing his targets both months with 103% and 105%. In 
-   contrast, the two Sales Executives, Emily Davis and Sara Johnson, performed below expectations. Emily achieved 86% of her target in January but improved to 95% in February. Sara 
-   Johnson's sales were consistently below target, achieving 89% in January and 90% in February. Their performance is reflected in the total sales per employee, with Emily contributing 
-   $65,000 and Sara $52,000.
+    The "Total Revenue by Month" chart shows steady growth, with the highest revenue in June at $166,486. This trend highlights an upward trajectory in sales, possibly due to increased 
+    demand or effective marketing efforts during these months.
 
-   Attendance data plays a key role in explaining these outcomes. John Smith worked all his available days in January, correlating with his exceptional sales performance. Michael Brown 
-   also had good attendance, working 21 days in January. In contrast, Sara Johnson had the lowest attendance, with 19 days worked in January, which may have contributed to her lower 
-   sales performance. The daily sales per employee also show John Smith as the highest performer, generating $4,772.73 daily, while Sara lags behind at $2,736.84 per day.
+    The "Transactions by Day of Week" bar chart reveals that Thursdays and Fridays are the busiest days, while weekends, particularly Saturdays, see fewer transactions. This indicates a 
+    higher footfall during the workweek, suggesting opportunities to boost weekend sales with targeted promotions.
 
-   The visual dashboard reinforces these findings, showing that the Sales department, which makes up 75% of the workforce, is the primary driver of revenue. Average sales per role 
-   indicate that Sales Managers generate the highest average, $52,500, followed by Marketing Executives at $41,000, and Sales Executives at $29,250. The total sales per employee chart 
-   further emphasizes John Smith’s outperformance compared to others.
+    The "Transactions by Hour of Day" chart shows that mornings, especially between 8 and 10 AM, see the highest transaction volumes, consistent with typical coffee-buying patterns 
+    during commutes. There's a smaller peak around noon, but after 4 PM, activity drops significantly, showing reduced demand later in the day.
 
-   This project demonstrates how various factors such as attendance, role, and department contribute to individual and team performance. While the Sales department as a whole shows 
-   strong results, there are clear areas where performance, particularly among Sales Executives, could be improved with targeted support. The Marketing Executive, despite being the 
-   sole representative of the department, displays consistent achievement and adds significant value to the overall team performance.
+    The "Transactions by Product Category" chart illustrates that coffee dominates with over 50,000 transactions, followed by tea with around 45,000. Packaged goods and branded items 
+    are the least purchased, reflecting their niche nature compared to more popular offerings like beverages and snacks.
+
+    The "Top 15 Products by Transaction Revenue" table identifies brewed chai tea as the top revenue generator at £77,082 from 17,183 transactions. Other top earners include gourmet 
+    brewed coffee and barista espresso, showing that both standard and specialty coffee drinks perform well. Premium products, such as organic brewed coffee and herbal teas, also 
+    feature in the top revenue list, reflecting customer interest in higher-quality or unique offerings.
+
+    Overall, the dashboard offers a clear view of sales dynamics, customer preferences, and revenue trends, providing valuable insights to optimize operations, inventory, and marketing 
+    strategies.
   
 - **Project 3: IMDb**
   
